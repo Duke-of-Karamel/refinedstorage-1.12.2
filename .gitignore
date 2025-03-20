@@ -1,7 +1,8 @@
 .gradle/
 .nb-gradle/
 .settings/
-build/
+build/*
+!build/libs/
 eclipse/
 .classpath
 .nb-gradle-properties
